@@ -1,0 +1,7 @@
+.container {
+  flex-direction: column;
+}
+
+.tareaLista {
+  text-decoration: line-through;
+}
